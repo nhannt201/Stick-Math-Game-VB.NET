@@ -1,0 +1,25 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Stick Math\bin\Debug\Stick Math.exe.config
+E:\Stick Math\Stick Math\bin\Debug\Stick Math.exe.config
+E:\Stick Math\Stick Math\bin\Debug\Stick Math.exe
+E:\Stick Math\Stick Math\bin\Debug\Stick Math.pdb
+E:\Stick Math\Stick Math\bin\Debug\Stick Math.xml
+E:\Stick Math\Stick Math\obj\Debug\Stick_Math.home.resources
+E:\Stick Math\Stick Math\obj\Debug\Stick_Math.Resources.resources
+E:\Stick Math\Stick Math\obj\Debug\Stick Math.vbproj.GenerateResource.Cache
+E:\Stick Math\Stick Math\obj\Debug\Stick Math.exe
+E:\Stick Math\Stick Math\obj\Debug\Stick Math.xml
+E:\Stick Math\Stick Math\obj\Debug\Stick Math.pdb
+E:\Stick Math\Stick Math\obj\Debug\Stick_Math.Form2.resources
+D:\GIT\VB\Stick Math\Stick Math\bin\Debug\Stick Math.exe.config
+D:\GIT\VB\Stick Math\Stick Math\bin\Debug\Stick Math.exe
+D:\GIT\VB\Stick Math\Stick Math\obj\Debug\Stick Math.vbprojAssemblyReference.cache
+D:\GIT\VB\Stick Math\Stick Math\obj\Debug\Stick_Math.home.resources
+D:\GIT\VB\Stick Math\Stick Math\obj\Debug\Stick_Math.Form2.resources
+D:\GIT\VB\Stick Math\Stick Math\obj\Debug\Stick_Math.Resources.resources
+D:\GIT\VB\Stick Math\Stick Math\obj\Debug\Stick Math.vbproj.GenerateResource.cache
+D:\GIT\VB\Stick Math\Stick Math\obj\Debug\Stick Math.vbproj.CoreCompileInputs.cache
+D:\GIT\VB\Stick Math\Stick Math\obj\Debug\Stick Math.exe
+D:\GIT\VB\Stick Math\Stick Math\obj\Debug\Stick Math.xml
+D:\GIT\VB\Stick Math\Stick Math\obj\Debug\Stick Math.pdb
+D:\GIT\VB\Stick Math\Stick Math\bin\Debug\Stick Math.pdb
+D:\GIT\VB\Stick Math\Stick Math\bin\Debug\Stick Math.xml

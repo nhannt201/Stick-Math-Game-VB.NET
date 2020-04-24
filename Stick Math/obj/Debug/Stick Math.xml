@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Stick Math
+</name>
+</assembly>
+<members>
+<member name="T:Stick_Math.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Stick_Math.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Stick_Math.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Stick_Math.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stick_Math.My.Resources.Resources._11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stick_Math.My.Resources.Resources.ban">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stick_Math.My.Resources.Resources.ban1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stick_Math.My.Resources.Resources.ban2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stick_Math.My.Resources.Resources.dichh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stick_Math.My.Resources.Resources.home">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stick_Math.My.Resources.Resources.Stick_Math_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
